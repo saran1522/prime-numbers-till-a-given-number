@@ -1,1 +1,1 @@
-# prime-number-till-a-given-nuber
+# prime-number-till-a-given-number
